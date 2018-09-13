@@ -1,13 +1,14 @@
-
-
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
 body {
+    font-family: 'Work Sans', serif;
     background-color: #92a8d1;
-    font-size: 12;
-	font-style 
+    font-size: 16px;
+	font-style: 
 	font-weight 
 	text-align
 	text-decoration
 	text-transform
+
 }
 </style>
 </head>
